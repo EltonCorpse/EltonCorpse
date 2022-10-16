@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Elton Rodrigo 😁
+## Bem-vindo(a) ao perfil de Elton Rodrigo 😁
 
  <div>
    <a href="https://github.com/EltonCorpse">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Me sega nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCiMcwyFxk3TVvYx_Rl1rXNA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
